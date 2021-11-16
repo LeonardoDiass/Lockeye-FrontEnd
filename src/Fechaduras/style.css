@@ -36,8 +36,9 @@ header{
     width: 80%;
     margin-left: 10%;
     margin-right: 10%;
-    background: rgba(226, 234, 240, 0.933);
-    border-radius: 20px;
+    background: white;
+    border: 0.5vh solid #919caa;
+    border-radius: 10px;
     margin-bottom: 6%;
 }
 .desc{
@@ -50,5 +51,11 @@ header{
 .desc h3{
     font-size: 2vh;
     color: #919caa;
+}
+.desc i{
+    float: right;
+    font-size: 5vh;
+    color:#919caa;
+    margin-top: -5vh;
 }
 
